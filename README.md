@@ -1,7 +1,7 @@
 <h1 align="center">Hello human, I'm Shanath. My preferred name is Shan.</h1>
 <h3 align="center">A programmer from Singapore with an interest in all things data, and more recently, mobile development with React Native.</h3>
 
-<h4>Exploring and cleaning data through tools like SQL and Microsoft Excel, designing relational database schemas, performing Exploratory Data Analysis (EDA), building NLP and Machine Learning pipelines to solve the problem statements each dataset has, is what I enjoy most about data.</h4>
+<h4>Exploring and cleaning data through tools like SQL, Python and Microsoft Excel, modelling relational databases, performing Exploratory Data Analysis (EDA), building NLP and Machine Learning pipelines to solve the problem statements each dataset has, is what I enjoy most about data.</h4>
 
 - 📫 How to reach me **shanath_98@protonmail.com**
 
