@@ -3,7 +3,7 @@
 
 <h4>Exploring and cleaning data through tools like SQL, Python and Microsoft Excel, modelling relational databases, performing Exploratory Data Analysis (EDA), building NLP and Machine Learning pipelines to solve the problem statements each dataset has, is what I enjoy most about data.</h4>
 
-- 📫 How to reach me **shanath_98@protonmail.com**
+- 📫 How to reach me **shanath98@gmail.com**
 
 <p align="left">
 </p>
